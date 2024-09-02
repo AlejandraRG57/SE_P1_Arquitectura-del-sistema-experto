@@ -1,5 +1,5 @@
 # SE_P1_Arquitectura-del-sistema-experto 🚀
-_La arquitectura del sistema experto explicando cada una de sus partes_
+_La arquitectura del sistema experto explicando cada una de sus partes utilizando una IA_
 
 ## Indice 📋
 * La Componente Humana
