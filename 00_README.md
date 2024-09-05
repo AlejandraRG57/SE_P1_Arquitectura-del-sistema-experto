@@ -4,10 +4,9 @@ _La arquitectura del sistema experto explicando cada una de sus partes utilizand
 ## Indice 📋
 * La Componente Humana
 * La Base de Conocimiento
-* Subsistema de Adquisicion de Conocimiento 1
+* Subsistema de Adquisicion de Conocimiento
 * Control de la Coherencia
 * El Motor de Inferencia
-* Subsistema de Adquisicion de Conocimiento 2
 * Interfase de Usuario
 * El Subsistema de Ejecucion de  Ordenes
 * El Subsistema de Explicacion
